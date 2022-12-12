@@ -1,0 +1,7 @@
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/controller/MainController.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/service/DatabaseService.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/controller/JokeRestController.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/ArchitectureRefCard03Application.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/service/JokeRepository.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/model/Joke.java
+/media/sf_Module_Lokal/m346-ref-card-03/src/main/java/ch/bbw/architecturerefcard03/model/Section.java
