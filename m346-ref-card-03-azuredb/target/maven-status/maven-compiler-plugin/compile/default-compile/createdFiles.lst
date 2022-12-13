@@ -1,0 +1,7 @@
+ch/bbw/architecturerefcard03/controller/JokeRestController.class
+ch/bbw/architecturerefcard03/ArchitectureRefCard03Application.class
+ch/bbw/architecturerefcard03/model/Joke.class
+ch/bbw/architecturerefcard03/model/Section.class
+ch/bbw/architecturerefcard03/service/JokeRepository.class
+ch/bbw/architecturerefcard03/service/DatabaseService.class
+ch/bbw/architecturerefcard03/controller/MainController.class
